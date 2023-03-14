@@ -1,1 +1,1 @@
-# Webscraping-from-Flipkart
+Web scraping from Flipkart involves extracting data from the website using Python and the Beautiful Soup library. The process involves setting the URL to be scraped, setting the User-Agent header to prevent being blocked by the website, sending a GET request to the URL, parsing the HTML content of the response using Beautiful Soup, and extracting the required data. The extracted data can then be stored in a file such as CSV or used for further analysis.

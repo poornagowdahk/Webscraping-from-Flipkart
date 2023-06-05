@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@1,100&family=Bebas+Neue&family=Cookie&family=Great+Vibes&family=Hurricane&family=Lobster&family=Macondo&family=Oswald:wght@200;500;700&family=Pacifico&display=swap');
+body {
+    text-align: center;
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 60px;
+    text-transform: capitalize;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#content {
+    width: 30em;
+    height: 30px;
+    margin-bottom: 2em;
+    font-size: 30px;
+}
+
+#button {
+    border: none;
+    border-bottom: 2px solid rgb(189, 143, 232);
+    border-top: 2px solid rgb(189, 143, 232);
+    font-size: 25px;
+    padding: 0.2em 1em;
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 10px;
+}
